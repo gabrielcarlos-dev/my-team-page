@@ -6,11 +6,12 @@
     Esse projeto foi criado através do devchallenges onde ensinam a programar
 </h4>
 
-<img src="">
+<img src="https://github.com/gabrielcarlos-dev/my-team-page/blob/master/assets/Bloco%20de%20Texto%20com%20Mockup%20de%20Notebook%20Alinhado%20%C3%A0%20Direita%20(4).png?raw=true">
 <br>
   <h3>💻 DESCRIÇÃO </h3>
 
 Este projeto que fizemos no devchallenges ensinaram várias coisas como fazer a responsividade para celular e colocar icon no title
+e redirecionar as imagens 
 
 <h5> 🔨TECNOLOGIAS</h5>
 
